@@ -1,0 +1,6 @@
+Test file for issue #25
+
+This file was created to test PR workflow with n8n.
+
+Issue: [fix] 테스트1
+Date: 2026-01-12
