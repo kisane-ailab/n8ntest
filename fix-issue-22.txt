@@ -1,0 +1,4 @@
+Fix for issue #22
+
+This file addresses the bug reported in issue #22.
+Date: 2026-01-12
