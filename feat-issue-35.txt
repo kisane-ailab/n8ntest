@@ -1,0 +1,4 @@
+feat-issue-35.txt
+
+Feature for issue #35
+Date: 2026-01-12
